@@ -45,6 +45,8 @@ and just ask the editors to select the category.
 
 ### Project/Tooling Updates
 
+* [CipherStash Proxy 2.1.20 - Postgres Searchable Encryption in pure Rust](https://github.com/cipherstash/proxy/discussions/361)
+
 
 ### Observations/Thoughts
 
