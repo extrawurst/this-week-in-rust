@@ -369,11 +369,11 @@ Rusty Events between 2026-02-04 - 2026-03-04 🦀
     * [**Rust-Atl**](https://www.meetup.com/rust-atl/events/311228648/)
 
 ### Oceania
-* 2026-02-11 | Brisbane City, QL, AU | [Rust Brisbane](https://www.meetup.com/rust-brisbane)
+* 2026-02-11 | Brisbane City, QLD, AU | [Rust Brisbane](https://www.meetup.com/rust-brisbane)
     * [**Rust Brisbane Feb 2026**](https://www.meetup.com/rust-brisbane/events/313087789/)
-* 2026-02-11 | Sydney, AU | [Rust Sydney](https://www.meetup.com/rust-sydney)
+* 2026-02-11 | Sydney, NSW, AU | [Rust Sydney](https://www.meetup.com/rust-sydney)
     * [**Welcome 🦀 to 2026**](https://www.meetup.com/rust-sydney/events/313074935/)
-* 2026-02-24 | Canberra, AU | [Rust Canberra](https://www.meetup.com/rust-canberra/)
+* 2026-02-24 | Canberra, ACT, AU | [Rust Canberra](https://www.meetup.com/rust-canberra/)
     * [**February Meetup**](https://www.meetup.com/rust-canberra/events/313199994/)
 
 If you are running a Rust event please add it to the [calendar] to get
