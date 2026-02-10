@@ -142,7 +142,27 @@ If you are an event organizer hoping to expand the reach of your event, please s
 
 ### Rust Compiler Performance Triage
 
-<!-- Perf results go here -->
+This week we saw quite a few improvements. Largest one comes from adding two targeted `with_capacity` calls in [#151929](https://github.com/rust-lang/rust/pull/151929).
+Another source of multiple improvements is the ongoing migration away from using external files to store diagnostic messages.
+
+Triage done by **@panstromek**.
+Revision range: [a60d12cb..39219ceb](https://perf.rust-lang.org/?start=a60d12cbccfbeaf153f3cecb90454aa696ea4b3b&end=39219ceb97d1b37dda72517daa9ebe8364ffe186&absolute=false&stat=instructions%3Au)
+
+**Summary**:
+
+| (instructions:u)                   | mean  | range           | count |
+|:----------------------------------:|:-----:|:---------------:|:-----:|
+| Regressions ❌ <br /> (primary)    | 2.0%  | [2.0%, 2.0%]    | 1     |
+| Regressions ❌ <br /> (secondary)  | 0.6%  | [0.0%, 2.0%]    | 22    |
+| Improvements ✅ <br /> (primary)   | -0.8% | [-2.8%, -0.2%]  | 179   |
+| Improvements ✅ <br /> (secondary) | -3.1% | [-31.1%, -0.0%] | 211   |
+| All ❌✅ (primary)                 | -0.7% | [-2.8%, 2.0%]   | 180   |
+
+
+1 Regression, 6 Improvements, 7 Mixed; 9 of them in rollups
+36 artifact comparisons made in total
+
+[Full report here](https://github.com/rust-lang/rustc-perf/blob/c3789580abef82e4d72aaeb5e85cfd09f53e8ce8/triage/2026/2026-02-09.md)
 
 ### [Approved RFCs](https://github.com/rust-lang/rfcs/commits/master)
 
