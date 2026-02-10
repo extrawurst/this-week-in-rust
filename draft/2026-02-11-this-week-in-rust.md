@@ -50,6 +50,8 @@ and just ask the editors to select the category.
 
 ### Rust Walkthroughs
 
+* [Trying to support FreeBSD and Nix for my Rust CLI: Lessons Learned](https://ivaniscoding.github.io/posts/rustpackaging3/)
+
 ### Research
 
 ### Miscellaneous
