@@ -48,6 +48,8 @@ and just ask the editors to select the category.
 
 ### Observations/Thoughts
 
+* [audio] [Netstack.FM episode 26 — Email protocols with Mauro De Gennaro from Stalwart Labs](https://netstack.fm/#episode-26)
+
 ### Rust Walkthroughs
 
 ### Research
