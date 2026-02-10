@@ -217,6 +217,7 @@ Revision range: [3d087e60..ebf13cca](https://perf.rust-lang.org/?start=3d087e604
 
 Changes to Rust follow the Rust [RFC (request for comments) process](https://github.com/rust-lang/rfcs#rust-rfcs). These
 are the RFCs that were approved for implementation this week:
+
 * [Trait method impl restrictions (`final` methods)](https://github.com/rust-lang/rfcs/pull/3678)
 * [RFC: `#[export_visibility = ...]` attribute](https://github.com/rust-lang/rfcs/pull/3834)
 
@@ -400,9 +401,9 @@ Rusty Events between 2026-01-28 - 2026-02-25 🦀
     * [**Rust LA: Rust as a Glue Layer- Infrastructure for AI-Native Applications**](https://www.meetup.com/rust-los-angeles/events/313097225/)
 
 ### Oceania
-* 2026-02-11 | Brisbane City, QL, AU | [Rust Brisbane](https://www.meetup.com/rust-brisbane)
+* 2026-02-11 | Brisbane City, QLD, AU | [Rust Brisbane](https://www.meetup.com/rust-brisbane)
     * [**Rust Brisbane Feb 2026**](https://www.meetup.com/rust-brisbane/events/313087789/)
-* 2026-02-11 | Sydney, AU | [Rust Sydney](https://www.meetup.com/rust-sydney)
+* 2026-02-11 | Sydney, NSW, AU | [Rust Sydney](https://www.meetup.com/rust-sydney)
     * [**Welcome 🦀 to 2026**](https://www.meetup.com/rust-sydney/events/313074935/)
 
 If you are running a Rust event please add it to the [calendar] to get
