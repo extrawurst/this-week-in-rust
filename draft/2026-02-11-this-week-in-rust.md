@@ -49,7 +49,6 @@ and just ask the editors to select the category.
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
-* [Implementing TCP Echo Server in Rust](https://blog.sheerluck.dev/p/implementing-tcp-echo-server-in-rust)
 * [video] [Implementing TCP Echo Server in Rust](https://www.youtube.com/watch?v=qjOBZ_Xzuio)
 
 ### Research
