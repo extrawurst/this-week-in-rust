@@ -69,6 +69,7 @@ and just ask the editors to select the category.
 * [Benchmark 2 decimal crates of floating-point vs fixed-point](https://github.com/WuBingzheng/primitive_fixed_point_decimal/blob/master/benches/README.md)
 * [Trying to support FreeBSD and Nix for my Rust CLI: Lessons Learned](https://ivaniscoding.github.io/posts/rustpackaging3/)
 * [video] [Rama @ FOSDEM 2026 — Rethinking network services: Freedom and modularity with Rama](https://fosdem.org/2026/schedule/event/CKANPK-programmable_networking_with_rama/)
+* [video] [Implementing TCP Echo Server in Rust](https://www.youtube.com/watch?v=qjOBZ_Xzuio)
 
 ### Research
 
