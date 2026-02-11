@@ -50,6 +50,7 @@ and just ask the editors to select the category.
 * [The future for Tyr](https://lwn.net/SubscriberLink/1055590/12d48275b6f81988/)
 * [Rustbridge v0.9: Building and bundling Rust shared libraries](https://github.com/jrobhoward/rustbridge/blob/v0.9.1/docs/RELEASE_NOTES_0.9.md)
 * [Ariel OS v0.3.0: BLE, Sensors, UART, and More!](https://ariel-os.org/blog/ariel-os-0.3.0/)
+* [CipherStash Proxy 2.1.20 - Postgres Searchable Encryption in pure Rust](https://github.com/cipherstash/proxy/discussions/361)
 
 ### Observations/Thoughts
 * [Linux 7.0 Officially Concluding The Rust Experiment](https://www.phoronix.com/news/Linux-7.0-Rust)
