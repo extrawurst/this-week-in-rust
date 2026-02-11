@@ -229,7 +229,7 @@ which are reaching a decision. Express your opinions now.
 
 ##### [Compiler Team](https://github.com/rust-lang/compiler-team/issues?q=label%3Amajor-change%20label%3Afinal-comment-period%20state%3Aopen) [(MCPs only)](https://forge.rust-lang.org/compiler/mcp.html)
 
-* [For `nvptx64`, drop old CPUs and ISAs - drop support for `target-cpu` \< SM 7.0 and PTX ISA \< 7.0](https://github.com/rust-lang/compiler-team/issues/965)
+* [For `nvptx64`, drop old CPUs and ISAs - drop support for `target-cpu` < SM 7.0 and PTX ISA < 7.0](https://github.com/rust-lang/compiler-team/issues/965)
 * [Create linker subteam/Working Group](https://github.com/rust-lang/compiler-team/issues/964)
 * [Extend the `x.py` policy for `TODO` and `FIXME` to other in-tree projects](https://github.com/rust-lang/compiler-team/issues/963)
 
@@ -239,7 +239,7 @@ which are reaching a decision. Express your opinions now.
 
 #### [Unsafe Code Guidelines](https://github.com/rust-lang/unsafe-code-guidelines/issues?q=is%3Aopen%20label%3Afinal-comment-period%20sort%3Aupdated-desc%20state%3Aopen)
 
-* [Can a pointer obtained by casting `&UnsafeCell\<T\>` to `*mut T` be written to?](https://github.com/rust-lang/unsafe-code-guidelines/issues/281)
+* [Can a pointer obtained by casting `&UnsafeCell<T>` to `*mut T` be written to?](https://github.com/rust-lang/unsafe-code-guidelines/issues/281)
 
 *No Items entered Final Comment Period this week for
 [Rust RFCs](https://github.com/rust-lang/rfcs/issues?q=state%3Aopen%20label%3Afinal-comment-period%20state%3Aopen),
@@ -369,11 +369,11 @@ Rusty Events between 2026-02-04 - 2026-03-04 🦀
     * [**Rust-Atl**](https://www.meetup.com/rust-atl/events/311228648/)
 
 ### Oceania
-* 2026-02-11 | Brisbane City, QL, AU | [Rust Brisbane](https://www.meetup.com/rust-brisbane)
+* 2026-02-11 | Brisbane City, QLD, AU | [Rust Brisbane](https://www.meetup.com/rust-brisbane)
     * [**Rust Brisbane Feb 2026**](https://www.meetup.com/rust-brisbane/events/313087789/)
-* 2026-02-11 | Sydney, AU | [Rust Sydney](https://www.meetup.com/rust-sydney)
+* 2026-02-11 | Sydney, NSW, AU | [Rust Sydney](https://www.meetup.com/rust-sydney)
     * [**Welcome 🦀 to 2026**](https://www.meetup.com/rust-sydney/events/313074935/)
-* 2026-02-24 | Canberra, AU | [Rust Canberra](https://www.meetup.com/rust-canberra/)
+* 2026-02-24 | Canberra, ACT, AU | [Rust Canberra](https://www.meetup.com/rust-canberra/)
     * [**February Meetup**](https://www.meetup.com/rust-canberra/events/313199994/)
 
 If you are running a Rust event please add it to the [calendar] to get
