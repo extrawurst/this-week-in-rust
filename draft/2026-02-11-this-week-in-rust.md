@@ -66,7 +66,6 @@ and just ask the editors to select the category.
 * [Hot Reloading in Rust? Subsecond and Dioxus to the rescue!](https://codethoughts.io/posts/2026-02-07-rust-hot-reloading/)
 * [Benchmark 2 decimal crates of floating-point vs fixed-point](https://github.com/WuBingzheng/primitive_fixed_point_decimal/blob/master/benches/README.md)
 * [Trying to support FreeBSD and Nix for my Rust CLI: Lessons Learned](https://ivaniscoding.github.io/posts/rustpackaging3/)
-
 * [video] [Rama @ FOSDEM 2026 — Rethinking network services: Freedom and modularity with Rama](https://fosdem.org/2026/schedule/event/CKANPK-programmable_networking_with_rama/)
 
 ### Research
@@ -75,7 +74,9 @@ and just ask the editors to select the category.
 
 ## Crate of the Week
 
-<!-- COTW goes here -->
+This week's crate is [zedbar](https://crates.io/crates/zedbar), a crate to read QR codes and a bunch of other barcode formats from images.
+
+Thanks to [Brian Donovan](https://users.rust-lang.org/t/crate-of-the-week/2704/1536) for the self-suggestion!
 
 [Please submit your suggestions and votes for next week][submit_crate]!
 
@@ -125,7 +126,53 @@ If you are an event organizer hoping to expand the reach of your event, please s
 
 ## Updates from the Rust Project
 
-<!-- Rust updates go here -->
+569 pull requests were [merged in the last week][merged]
+
+[merged]: https://github.com/search?q=is%3Apr+org%3Arust-lang+is%3Amerged+merged%3A2026-02-03..2026-02-10
+
+#### Compiler
+* [add `unreachable_cfg_select_predicates` lint](https://github.com/rust-lang/rust/pull/149960)
+* [implement MVP for opaque generic const arguments](https://github.com/rust-lang/rust/pull/150823)
+* [provide more context on trait bounds being unmet due to imperfect derive](https://github.com/rust-lang/rust/pull/151278)
+
+#### Library
+* [add `NonZero::<T>::from_str_radix`](https://github.com/rust-lang/rust/pull/151945)
+* [implement `int_from_ascii` for `NonZero<T>`](https://github.com/rust-lang/rust/pull/152267)
+* [add some conversion trait impls](https://github.com/rust-lang/rust/pull/145504)
+* [align `ArrayWindows` trait impls with `Windows`](https://github.com/rust-lang/rust/pull/151613)
+* [implement stdio FD constants](https://github.com/rust-lang/rust/pull/152071)
+* [stabilize `core::hint::cold_path`](https://github.com/rust-lang/rust/pull/151576)
+* [stabilize const ControlFlow predicates](https://github.com/rust-lang/rust/pull/152253)
+* [stabilize new inclusive range type and iterator type](https://github.com/rust-lang/rust/pull/150522)
+* [introduce path normalize methods at top of `std::path`](https://github.com/rust-lang/rust/pull/142957)
+
+#### Cargo
+* [`lints`: add `missing_lints_inheritance`](https://github.com/rust-lang/cargo/pull/16588)
+* [`lints`: add `unused_workspace_package_fields` lint](https://github.com/rust-lang/cargo/pull/16585)
+* [`timings`: enable text selection in the charts](https://github.com/rust-lang/cargo/pull/16607)
+* [add host.runner for wrapping host build target executions](https://github.com/rust-lang/cargo/pull/16599)
+* [fix known hosts parsing](https://github.com/rust-lang/cargo/pull/16596)
+
+#### Clippy
+* [fix `cmp_owned` false positive when `to_string` comes from macro input](https://github.com/rust-lang/rust-clippy/pull/16468)
+* [fix: handle false negative for `str_to_string`](https://github.com/rust-lang/rust-clippy/pull/16512)
+
+#### Rust-Analyzer
+* [add `expression_types()`, `pattern_types()`, `binding_types()` to `DefWithBody`](https://github.com/rust-lang/rust-analyzer/pull/21584)
+* [implement fine grained client side request cancellation support](https://github.com/rust-lang/rust-analyzer/pull/21380)
+* [when autoimporting a segment followed by other segments, only consider items that will resolve with the after segments](https://github.com/rust-lang/rust-analyzer/pull/21574)
+* [fix linking of postcard test](https://github.com/rust-lang/rust-analyzer/pull/21538)
+* [cover more cases where we need parentheses in `&(impl Trait1 + Trait2)`](https://github.com/rust-lang/rust-analyzer/pull/21569)
+* [fix `set_top_subtree_delimiter_span` using wrong index for close span](https://github.com/rust-lang/rust-analyzer/pull/21608)
+* [fix loses associated bounds for `replace_derive_with_manual_impl`](https://github.com/rust-lang/rust-analyzer/pull/21583)
+* [fix not complete `.not` in condition](https://github.com/rust-lang/rust-analyzer/pull/21526)
+* [infer the expected len in `include_bytes!()`, to avoid mismatches](https://github.com/rust-lang/rust-analyzer/pull/21573)
+* [lowering cycle fixes](https://github.com/rust-lang/rust-analyzer/pull/21579)
+* [stale diagnostics with rust-project.json and rustc JSON](https://github.com/rust-lang/rust-analyzer/pull/21571)
+* [sync `allow_normalization` to rustc](https://github.com/rust-lang/rust-analyzer/pull/21611)
+* [truncate display version of commands consistently](https://github.com/rust-lang/rust-analyzer/pull/21580)
+* [use `display_source_code()` in `ReferenceConversion`](https://github.com/rust-lang/rust-analyzer/pull/21578)
+* [migrate getters and setters handler to SyntaxEditor](https://github.com/rust-lang/rust-analyzer/pull/21606)
 
 ### Rust Compiler Performance Triage
 
@@ -144,7 +191,6 @@ Revision range: [a60d12cb..39219ceb](https://perf.rust-lang.org/?start=a60d12cbc
 | Improvements ✅ <br /> (primary)   | -0.8% | [-2.8%, -0.2%]  | 179   |
 | Improvements ✅ <br /> (secondary) | -3.1% | [-31.1%, -0.0%] | 211   |
 | All ❌✅ (primary)                 | -0.7% | [-2.8%, 2.0%]   | 180   |
-
 
 1 Regression, 6 Improvements, 7 Mixed; 9 of them in rollups
 36 artifact comparisons made in total
@@ -322,7 +368,11 @@ Please see the latest [Who's Hiring thread on r/rust](INSERT_LINK_HERE)
 
 # Quote of the Week
 
-<!-- QOTW goes here -->
+> Unpopular opinion: error handling in Rust is actually fantastic. Once you know the right patterns, which regrettably are NOT always obvious 😂 
+
+– [Ian Wagner on fosstodon](https://fosstodon.org/@ianthetechie/116012332982905561)
+
+Despite another week with a lamentable lack of suggestions, llogiq is pleased with what he found.
 
 [Please submit quotes and vote for next week!](https://users.rust-lang.org/t/twir-quote-of-the-week/328)
 
