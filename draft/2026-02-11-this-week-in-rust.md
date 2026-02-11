@@ -47,6 +47,7 @@ and just ask the editors to select the category.
 ### Project/Tooling Updates
 * [Fyrox 1.0.0-rc.2](https://fyrox.rs/blog/post/fyrox-game-engine-1-0-0-rc-2/)
 * [Slint 1.15 Released](https://slint.dev/blog/slint-1.15-released)
+* [The future for Tyr](https://lwn.net/SubscriberLink/1055590/12d48275b6f81988/)
 
 ### Observations/Thoughts
 * [Linux 7.0 Officially Concluding The Rust Experiment](https://www.phoronix.com/news/Linux-7.0-Rust)
@@ -54,10 +55,12 @@ and just ask the editors to select the category.
 * [video] [Safe, Fast, and Scalable: Why gRPC-Rust Should Be Your Next RPC Framework](https://www.youtube.com/watch?v=l6YTt8ze4lI)
 * [video] [Anodized: Specs Beyond Types in Rust](https://www.youtube.com/watch?v=JtYyhXs4t6w)
 * [video] [impl Rust: Avro IDL tool in Rust via LLM](https://www.youtube.com/watch?v=vmKvw73V394)
+* [What's so great about Rust?](https://bitfieldconsulting.com/posts/why-rust)
 
 ### Rust Walkthroughs
 * [A future for bitflags](https://kodraus.github.io/rust/2026/02/06/bitflags-derive.html)
 * [Hot Reloading in Rust? Subsecond and Dioxus to the rescue!](https://codethoughts.io/posts/2026-02-07-rust-hot-reloading/)
+* [Benchmark 2 decimal crates of floating-point vs fixed-point](https://github.com/WuBingzheng/primitive_fixed_point_decimal/blob/master/benches/README.md)
 
 ### Research
 
