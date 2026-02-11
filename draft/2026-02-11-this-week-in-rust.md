@@ -49,6 +49,8 @@ and just ask the editors to select the category.
 
 ### Observations/Thoughts
 
+* [What's so great about Rust?](https://bitfieldconsulting.com/posts/why-rust)
+
 ### Rust Walkthroughs
 
 * [Benchmark 2 decimal crates of floating-point vs fixed-point](https://github.com/WuBingzheng/primitive_fixed_point_decimal/blob/master/benches/README.md)
