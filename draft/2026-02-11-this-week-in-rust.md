@@ -64,6 +64,7 @@ and just ask the editors to select the category.
 * [A future for bitflags](https://kodraus.github.io/rust/2026/02/06/bitflags-derive.html)
 * [Hot Reloading in Rust? Subsecond and Dioxus to the rescue!](https://codethoughts.io/posts/2026-02-07-rust-hot-reloading/)
 * [Benchmark 2 decimal crates of floating-point vs fixed-point](https://github.com/WuBingzheng/primitive_fixed_point_decimal/blob/master/benches/README.md)
+* [Trying to support FreeBSD and Nix for my Rust CLI: Lessons Learned](https://ivaniscoding.github.io/posts/rustpackaging3/)
 
 ### Research
 
