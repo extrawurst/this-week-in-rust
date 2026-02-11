@@ -56,6 +56,7 @@ and just ask the editors to select the category.
 * [Linux 7.0 Officially Concluding The Rust Experiment](https://www.phoronix.com/news/Linux-7.0-Rust)
 * [Borrowed tuple indexing for HashMap](https://traxys.me/tuple_borrow.html)
 * [What's so great about Rust?](https://bitfieldconsulting.com/posts/why-rust)
+* [Deploying Rust to production checklist](https://kerkour.com/rust-production-checklist)
 * [video] [Safe, Fast, and Scalable: Why gRPC-Rust Should Be Your Next RPC Framework](https://www.youtube.com/watch?v=l6YTt8ze4lI)
 * [video] [Anodized: Specs Beyond Types in Rust](https://www.youtube.com/watch?v=JtYyhXs4t6w)
 * [video] [impl Rust: Avro IDL tool in Rust via LLM](https://www.youtube.com/watch?v=vmKvw73V394)
