@@ -55,10 +55,11 @@ and just ask the editors to select the category.
 ### Observations/Thoughts
 * [Linux 7.0 Officially Concluding The Rust Experiment](https://www.phoronix.com/news/Linux-7.0-Rust)
 * [Borrowed tuple indexing for HashMap](https://traxys.me/tuple_borrow.html)
+* [What's so great about Rust?](https://bitfieldconsulting.com/posts/why-rust)
 * [video] [Safe, Fast, and Scalable: Why gRPC-Rust Should Be Your Next RPC Framework](https://www.youtube.com/watch?v=l6YTt8ze4lI)
 * [video] [Anodized: Specs Beyond Types in Rust](https://www.youtube.com/watch?v=JtYyhXs4t6w)
 * [video] [impl Rust: Avro IDL tool in Rust via LLM](https://www.youtube.com/watch?v=vmKvw73V394)
-* [What's so great about Rust?](https://bitfieldconsulting.com/posts/why-rust)
+* [audio] [Netstack.FM episode 26 — Email protocols with Mauro De Gennaro from Stalwart Labs](https://netstack.fm/#episode-26)
 
 ### Rust Walkthroughs
 * [A future for bitflags](https://kodraus.github.io/rust/2026/02/06/bitflags-derive.html)
