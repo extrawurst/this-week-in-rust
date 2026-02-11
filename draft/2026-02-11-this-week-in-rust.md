@@ -255,7 +255,7 @@ Rusty Events between 2026-02-11 - 2026-03-11 🦀
     * [**Rust Nürnberg online**](https://www.meetup.com/rust-noris/events/313293173/)
 * 2026-03-10 | Virtual (Dallas, TX, US) | [Dallas Rust User Meetup](https://www.meetup.com/dallasrust/events/)
     * [**Second Tuesday**](https://www.meetup.com/dallasrust/events/310254786/)
-* 2026-03-10 | Virtual (London, GB) | [Women in Rust](https://www.meetup.com/women-in-rust/events/)
+* 2026-03-10 | Virtual (London, UK)| [Women in Rust](https://www.meetup.com/women-in-rust/events/)
     * [**👋 Community Catch Up**](https://www.meetup.com/women-in-rust/events/312799450/)
 
 ### Asia
