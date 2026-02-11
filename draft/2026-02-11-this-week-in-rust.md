@@ -53,6 +53,7 @@ and just ask the editors to select the category.
 * [CipherStash Proxy 2.1.20 - Postgres Searchable Encryption in pure Rust](https://github.com/cipherstash/proxy/discussions/361)
 
 ### Observations/Thoughts
+* [Deploying Rust to production checklist](https://kerkour.com/rust-production-checklist)
 * [Linux 7.0 Officially Concluding The Rust Experiment](https://www.phoronix.com/news/Linux-7.0-Rust)
 * [Borrowed tuple indexing for HashMap](https://traxys.me/tuple_borrow.html)
 * [What's so great about Rust?](https://bitfieldconsulting.com/posts/why-rust)
