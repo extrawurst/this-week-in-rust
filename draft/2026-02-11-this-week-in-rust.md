@@ -279,7 +279,7 @@ Rusty Events between 2026-02-11 - 2026-03-11 🦀
     * [**RUST MEETUP at HACKER DOJO**](https://www.meetup.com/hackerdojo/events/313139277/)
 * 2026-02-24 | Bergen, NO | [Rust Bergen](https://www.meetup.com/bergen-rust-new-technology/events/)
     * [**Rust Bergen #5 @ Zrch: Doom on Embedded**](https://www.meetup.com/de-de/bergen-rust-new-technology/events/313109606)
-* 2026-02-24 | Manchester, GB | [Rust Manchester](https://www.meetup.com/rust-manchester/events/)
+* 2026-02-24 | Manchester, UK | [Rust Manchester](https://www.meetup.com/rust-manchester/events/)
     * [**Rust Manchester February Talk**](https://www.meetup.com/rust-manchester/events/313172595/)
 * 2026-03-04 | Barcelona, ES | [BcnRust](https://www.meetup.com/bcnrust/events/)
     * [**Rust at MWC Talent Arena — Workshops + Community Meetup**](https://www.meetup.com/bcnrust/events/313263086/)
