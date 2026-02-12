@@ -19,28 +19,6 @@ Want TWIR in your inbox? [Subscribe here](https://this-week-in-rust.us11.list-ma
 
 ## Updates from Rust Community
 
-<!--
-
-Dear community contributors:
-Please read README.md for guidance on submissions.
-Each submitted link should be of the form:
-
-* [Title of the linked Page](https://example.com/my_article)
-
-If you add a link to a non-text content please prefix it with `[video]` or `[audio]`:
-
-* [video] [Title of the linked video](https://example.com/my_video_article)
-* [audio] [Title of the linked audio file](https://example.com/my_podcast)
-
-If you don't know which category to use, feel free to submit a PR anyway
-and just ask the editors to select the category.
-
--->
-
-### Official
-
-### Foundation
-
 ### Newsletters
 * [GCC Front-End For Rust - January 2026 Monthly report](https://rust-gcc.github.io/2026/02/10/2026-01-monthly-report.html)
 
@@ -69,10 +47,6 @@ and just ask the editors to select the category.
 * [Trying to support FreeBSD and Nix for my Rust CLI: Lessons Learned](https://ivaniscoding.github.io/posts/rustpackaging3/)
 * [video] [Rama @ FOSDEM 2026 — Rethinking network services: Freedom and modularity with Rama](https://fosdem.org/2026/schedule/event/CKANPK-programmable_networking_with_rama/)
 * [video] [Implementing TCP Echo Server in Rust](https://www.youtube.com/watch?v=qjOBZ_Xzuio)
-
-### Research
-
-### Miscellaneous
 
 ## Crate of the Week
 
@@ -109,8 +83,6 @@ Every week we highlight some tasks from the Rust community for you to pick and g
 
 Some of these tasks may also have mentors available, visit the task page for more information.
 
-<!-- CFPs go here, use this format: * [project name - title of issue](URL to issue) -->
-<!-- * [ - ]() -->
 *No Calls for participation were submitted this week.*
 
 If you are a Rust project owner and are looking for contributors, please submit tasks [here][guidelines] or through a [PR to TWiR](https://github.com/rust-lang/this-week-in-rust) or by reaching out on [Bluesky](https://bsky.app/profile/thisweekinrust.bsky.social) or [Mastodon](https://mastodon.social/@thisweekinrust)!
@@ -120,9 +92,6 @@ If you are a Rust project owner and are looking for contributors, please submit 
 ### CFP - Events
 
 Are you a new or experienced speaker looking for a place to share something cool? This section highlights events that are being planned and are accepting submissions to join their event as a speaker.
-
-<!-- CFPs go here, use this format: * [**event name**](URL to CFP)| Date CFP closes in YYYY-MM-DD | city,state,country | Date of event in YYYY-MM-DD -->
-<!-- or if none - *No Calls for papers or presentations were submitted this week.* -->
 
 * [**Oxidize Conference](https://pretalx.com/oxidize-conference-2026-2025/cfp) | CFP open until 2026-03-23 | Berlin, Germany | 2026-09-14 - 2026-09-16
 
@@ -368,7 +337,7 @@ Email the [Rust Community Team][community] for access.
 
 ## Jobs
 
-Please see the latest [Who's Hiring thread on r/rust](INSERT_LINK_HERE)
+Please see the latest [Who's Hiring thread on r/rust](https://www.reddit.com/r/rust/comments/1qkkqi9/official_rrust_whos_hiring_thread_for_jobseekers/)
 
 # Quote of the Week
 
@@ -396,4 +365,4 @@ This Week in Rust is edited by:
 
 *Email list hosting is sponsored by [The Rust Foundation](https://foundation.rust-lang.org/)*
 
-<small>[Discuss on r/rust](REDDIT_LINK_HERE)</small>
+<small>[Discuss on r/rust](https://www.reddit.com/r/rust/comments/1r2p269/this_week_in_rust_638/)</small>
