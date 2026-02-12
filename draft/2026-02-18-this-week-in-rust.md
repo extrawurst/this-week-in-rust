@@ -45,6 +45,8 @@ and just ask the editors to select the category.
 
 ### Project/Tooling Updates
 
+* [sighook 0.9.0: prepatched hook APIs for iOS signed text pages](https://github.com/YinMo19/sighook/releases/tag/v0.9.0)
+
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
