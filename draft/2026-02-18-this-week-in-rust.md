@@ -48,6 +48,7 @@ and just ask the editors to select the category.
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
+* [Introduction to writing RISC-V contracts in Rust on Polkadot](https://dev.to/badery/introduction-to-writing-risc-v-contracts-in-rust-on-polkadot-29n7)
 
 ### Research
 
