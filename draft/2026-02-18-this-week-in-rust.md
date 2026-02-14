@@ -53,6 +53,8 @@ and just ask the editors to select the category.
 
 ### Miscellaneous
 
+* [Compendium: a friendly strace like tracer for x86 linux](https://pker.xyz/posts/compendium)
+
 ## Crate of the Week
 
 <!-- COTW goes here -->
