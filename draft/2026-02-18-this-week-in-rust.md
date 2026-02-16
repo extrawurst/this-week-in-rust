@@ -49,6 +49,8 @@ and just ask the editors to select the category.
 
 ### Rust Walkthroughs
 
+* [Shipping My Rust CLI to Windows: Lessons Learned (feat. Windows 98 and APE Bonus)](https://ivaniscoding.github.io/posts/rustpackaging4/)
+
 ### Research
 
 ### Miscellaneous
