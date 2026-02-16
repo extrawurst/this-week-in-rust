@@ -44,7 +44,7 @@ and just ask the editors to select the category.
 ### Newsletters
 
 ### Project/Tooling Updates
-
+* [Building Volatility Surfaces in Rust](https://volsurf-rs.github.io/posts/building-vol-surfaces-in-rust/)
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
