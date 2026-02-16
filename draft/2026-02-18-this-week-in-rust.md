@@ -44,7 +44,7 @@ and just ask the editors to select the category.
 ### Newsletters
 
 ### Project/Tooling Updates
-[stochastic-rs v1 stable released: stochastic/quant simulations (and more)](https://github.com/rust-dd/stochastic-rs)
+[stochastic-rs v1 stable released: stochastic/quant simulations (and more)](https://rust-dd.com/post/stochastic-rs-v1-stable)
 
 ### Observations/Thoughts
 
