@@ -196,7 +196,7 @@ which are reaching a decision. Express your opinions now.
 
 * [Remove the translation `-Z` options](https://github.com/rust-lang/compiler-team/issues/967)
 
-#### [Cargo](https://github.com/rust-lang/cargo/issues?q=is%3Aopen%20label%3Afinal-comment-period%20sort%3Aupdated-desc%20state%3Aopen)
+##### [Cargo](https://github.com/rust-lang/cargo/issues?q=is%3Aopen%20label%3Afinal-comment-period%20sort%3Aupdated-desc%20state%3Aopen)
 
 * [Stabilize cargo script](https://github.com/rust-lang/cargo/pull/16569)
 
