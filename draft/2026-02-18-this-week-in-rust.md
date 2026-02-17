@@ -43,6 +43,7 @@ and just ask the editors to select the category.
 
 ### Newsletters
 * [Scientific Computing in Rust #15 (February 2026)](https://scientificcomputing.rs/monthly/2026-02)
+* [The Embedded Rustacean Issue #65](https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-65)
 
 ### Project/Tooling Updates
 
