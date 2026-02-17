@@ -53,6 +53,7 @@ and just ask the editors to select the category.
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
+* [series] [Part 5: A Witless Fool, Building an LLM from Scratch in Rust](https://www.tag1.com/how-to/part5-a-witless-fool-building-an-llm-from-scratch/)
 
 * [Shipping My Rust CLI to Windows: Lessons Learned (feat. Windows 98 and APE Bonus)](https://ivaniscoding.github.io/posts/rustpackaging4/)
 
