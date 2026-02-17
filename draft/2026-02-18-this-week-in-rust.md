@@ -42,13 +42,20 @@ and just ask the editors to select the category.
 ### Foundation
 
 ### Newsletters
+* [Scientific Computing in Rust #15 (February 2026)](https://scientificcomputing.rs/monthly/2026-02)
+* [The Embedded Rustacean Issue #65](https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-65)
 
 ### Project/Tooling Updates
 * [FerroTunnel: high-performance embeddable reverse tunnel for Rust applications](https://users.rust-lang.org/t/ferrotunnel-high-performance-embeddable-reverse-tunnel-for-rust-applications/138214)
+* [stochastic-rs v1 stable released: stochastic/quant simulations (and more)](https://rust-dd.com/post/stochastic-rs-v1-stable)
+* [Banish v1.1.4 - a rule-based state-machine DSL](https://github.com/LoganFlaherty/banish/releases/tag/v1.1.4)
+* [Building Volatility Surfaces in Rust](https://volsurf-rs.github.io/posts/building-vol-surfaces-in-rust/)
 
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
+
+* [Shipping My Rust CLI to Windows: Lessons Learned (feat. Windows 98 and APE Bonus)](https://ivaniscoding.github.io/posts/rustpackaging4/)
 
 ### Research
 
