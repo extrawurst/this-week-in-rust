@@ -60,6 +60,8 @@ and just ask the editors to select the category.
 
 ### Miscellaneous
 
+* [Rust Developer Ecosystem Survey 2025: Popularity, Trends, and Future](https://blog.jetbrains.com/rust/2026/02/11/state-of-rust-2025/)
+
 ## Crate of the Week
 
 <!-- COTW goes here -->
