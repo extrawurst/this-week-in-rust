@@ -148,7 +148,30 @@ If you are an event organizer hoping to expand the reach of your event, please s
 
 ### Rust Compiler Performance Triage
 
-<!-- Perf results go here -->
+Several pull requests introduced (usually very small) regressions across the board this week. On the
+other hand, [#151380](https://github.com/rust-lang/rust/pull/151380) provided a nice performance win in the inference engine.
+I would also like to bring attention to [#152375](https://github.com/rust-lang/rust/pull/152375),
+which improved the parallel frontend. It is not shown in this report, because we don't yet have
+many benchmarks for the parallel frontend, but this PR seemingly improved the `check` (wall-time)
+performance with multiple frontend threads on several real-world crates by 5-10%!
+
+Triage done by **@kobzol**.
+Revision range: [39219ceb..3c9faa0d](https://perf.rust-lang.org/?start=39219ceb97d1b37dda72517daa9ebe8364ffe186&end=3c9faa0d037b9eecda4a440cc482ff7f960fb8a5&absolute=false&stat=instructions%3Au)
+
+**Summary**:
+
+| (instructions:u)                   | mean  | range          | count |
+|:----------------------------------:|:-----:|:--------------:|:-----:|
+| Regressions ❌ <br /> (primary)    | 0.7%  | [0.2%, 3.1%]   | 96    |
+| Regressions ❌ <br /> (secondary)  | 1.1%  | [0.0%, 5.7%]   | 62    |
+| Improvements ✅ <br /> (primary)   | -0.4% | [-0.9%, -0.2%] | 8     |
+| Improvements ✅ <br /> (secondary) | -2.6% | [-7.0%, -0.0%] | 45    |
+| All ❌✅ (primary)                 | 0.6%  | [-0.9%, 3.1%]  | 104   |
+
+2 Regressions, 0 Improvements, 9 Mixed; 4 of them in rollups
+36 artifact comparisons made in total
+
+[Full report here](https://github.com/rust-lang/rustc-perf/blob/a1128be07cc42d2bed7a65068f82dce36964386a/triage/2026/2026-02-17.md).
 
 ### [Approved RFCs](https://github.com/rust-lang/rfcs/commits/master)
 
