@@ -46,6 +46,7 @@ and just ask the editors to select the category.
 * [The Embedded Rustacean Issue #65](https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-65)
 
 ### Project/Tooling Updates
+* [stochastic-rs v1 stable released: stochastic/quant simulations (and more)](https://rust-dd.com/post/stochastic-rs-v1-stable)
 * [Banish v1.1.4 - a rule-based state-machine DSL](https://github.com/LoganFlaherty/banish/releases/tag/v1.1.4)
 
 ### Observations/Thoughts
