@@ -51,6 +51,7 @@ and just ask the editors to select the category.
 * [Building Volatility Surfaces in Rust](https://volsurf-rs.github.io/posts/building-vol-surfaces-in-rust/)
 
 ### Observations/Thoughts
+* [How Rust and Its Compiler Have Revolutionized Software Engineering and Reliability](https://kerkour.com/rust-software-engineering-reliability)
 
 ### Rust Walkthroughs
 
