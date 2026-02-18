@@ -39,7 +39,7 @@ and just ask the editors to select the category.
 
 ### Official
 * [Announcing Rust 1.93.1 | Rust Blog](https://blog.rust-lang.org/2026/02/12/Rust-1.93.1/)
-* [crates.io: an update to the malicious crate notification policy | R...](https://blog.rust-lang.org/2026/02/13/crates.io-malicious-crate-update/)
+* [crates.io: an update to the malicious crate notification policy](https://blog.rust-lang.org/2026/02/13/crates.io-malicious-crate-update/)
 * [This Development-cycle in Cargo: 1.94 | Inside Rust Blog](https://blog.rust-lang.org/inside-rust/2026/02/18/this-development-cycle-in-cargo-1.94/)
 ### Foundation
 
@@ -68,7 +68,7 @@ and just ask the editors to select the category.
 * [Shipping My Rust CLI to Windows: Lessons Learned (feat. Windows 98 and APE Bonus)](https://ivaniscoding.github.io/posts/rustpackaging4/)
 * [Visualizing Persistent Vectors with Rust and WebAssembly](https://abishov.com/blog/pvec-rs-visualizing-structural-sharing/)
 
-* [Recreating PlanetScale's pg_strict in Rust: A Build Log | SayBackend](https://saybackend.com/blog/recreating-planetscale-pg-strict-in-rust/?ref=github_com/spa5k)
+* [Recreating PlanetScale's pg_strict in Rust: A Build Log | SayBackend](https://saybackend.com/blog/recreating-planetscale-pg-strict-in-rust/)
 ### Research
 
 ### Miscellaneous
