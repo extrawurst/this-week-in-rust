@@ -55,6 +55,7 @@ and just ask the editors to select the category.
 * [Containerized shell sessions with Shell-Cell](https://mr-leshiy-blog.web.app/blog/shell-cell/)
 
 ### Observations/Thoughts
+* [How Rust and Its Compiler Have Revolutionized Software Engineering and Reliability](https://kerkour.com/rust-software-engineering-reliability)
 
 ### Rust Walkthroughs
 * [Introduction to writing RISC-V contracts in Rust on Polkadot](https://dev.to/badery/introduction-to-writing-risc-v-contracts-in-rust-on-polkadot-29n7)
