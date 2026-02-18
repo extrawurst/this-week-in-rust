@@ -50,6 +50,7 @@ and just ask the editors to select the category.
 * [Banish v1.1.4 - a rule-based state-machine DSL](https://github.com/LoganFlaherty/banish/releases/tag/v1.1.4)
 * [Building Volatility Surfaces in Rust](https://volsurf-rs.github.io/posts/building-vol-surfaces-in-rust/)
 * [Selium WebAssembly Hypervisor is in Alpha](https://selium.com/news/alpha-release)
+* [FerroTunnel: high-performance embeddable reverse tunnel for Rust applications](https://users.rust-lang.org/t/ferrotunnel-high-performance-embeddable-reverse-tunnel-for-rust-applications/138214)
 
 ### Observations/Thoughts
 
