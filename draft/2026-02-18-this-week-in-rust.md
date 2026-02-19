@@ -51,6 +51,7 @@ and just ask the editors to select the category.
 * [stochastic-rs v1 stable released: stochastic/quant simulations (and more)](https://rust-dd.com/post/stochastic-rs-v1-stable)
 * [Banish v1.1.4 - a rule-based state-machine DSL](https://github.com/LoganFlaherty/banish/releases/tag/v1.1.4)
 * [Building Volatility Surfaces in Rust](https://volsurf-rs.github.io/posts/building-vol-surfaces-in-rust/)
+* [diesel-guard v0.6.0 custom checks via Rhai for Postgres migrations](https://github.com/ayarotsky/diesel-guard/releases/tag/v0.6.0)
 * [Selium WebAssembly Hypervisor is in Alpha](https://selium.com/news/alpha-release)
 * [FerroTunnel: high-performance embeddable reverse tunnel for Rust applications](https://users.rust-lang.org/t/ferrotunnel-high-performance-embeddable-reverse-tunnel-for-rust-applications/138214)
 * [Compendium: a friendly strace like tracer for x86 linux](https://pker.xyz/posts/compendium)
