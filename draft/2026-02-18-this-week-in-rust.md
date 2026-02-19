@@ -41,24 +41,22 @@ and just ask the editors to select the category.
 * [Announcing Rust 1.93.1](https://blog.rust-lang.org/2026/02/12/Rust-1.93.1/)
 * [crates.io: an update to the malicious crate notification policy](https://blog.rust-lang.org/2026/02/13/crates.io-malicious-crate-update/)
 * [This Development-cycle in Cargo: 1.94](https://blog.rust-lang.org/inside-rust/2026/02/18/this-development-cycle-in-cargo-1.94/)
-### Foundation
 
 ### Newsletters
 * [Scientific Computing in Rust #15 (February 2026)](https://scientificcomputing.rs/monthly/2026-02)
 * [The Embedded Rustacean Issue #65](https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-65)
 
 ### Project/Tooling Updates
-* [stochastic-rs v1 stable released: stochastic/quant simulations (and more)](https://rust-dd.com/post/stochastic-rs-v1-stable)
-* [Banish v1.1.4 - a rule-based state-machine DSL](https://github.com/LoganFlaherty/banish/releases/tag/v1.1.4)
+* [stochastic-rs: stochastic/quant simulations (and more)](https://rust-dd.com/post/stochastic-rs-v1-stable)
+* [Banish v1.1.4: rule-based state-machine DSL](https://github.com/LoganFlaherty/banish/releases/tag/v1.1.4)
 * [Building Volatility Surfaces in Rust](https://volsurf-rs.github.io/posts/building-vol-surfaces-in-rust/)
-* [diesel-guard v0.6.0 custom checks via Rhai for Postgres migrations](https://github.com/ayarotsky/diesel-guard/releases/tag/v0.6.0)
+* [diesel-guard v0.6.0: custom checks for Postgres migrations](https://github.com/ayarotsky/diesel-guard/releases/tag/v0.6.0)
 * [Selium WebAssembly Hypervisor is in Alpha](https://selium.com/news/alpha-release)
-* [FerroTunnel: high-performance embeddable reverse tunnel for Rust applications](https://users.rust-lang.org/t/ferrotunnel-high-performance-embeddable-reverse-tunnel-for-rust-applications/138214)
-* [Compendium: a friendly strace like tracer for x86 linux](https://pker.xyz/posts/compendium)
+* [FerroTunnel: high-performance reverse tunnel](https://users.rust-lang.org/t/ferrotunnel-high-performance-embeddable-reverse-tunnel-for-rust-applications/138214)
+* [Compendium: strace like tracer](https://pker.xyz/posts/compendium)
 * [Containerized shell sessions with Shell-Cell](https://mr-leshiy-blog.web.app/blog/shell-cell/)
-* [Introducing SurrealDB 3.0 - the future of AI agent memory](https://surrealdb.com/blog/introducing-surrealdb-3-0--the-future-of-ai-agent-memory)
-
-* [sighook 0.9.0: prepatched hook APIs for iOS signed text pages](https://github.com/YinMo19/sighook/releases/tag/v0.9.0)
+* [Introducing SurrealDB 3.0 - AI agent memory](https://surrealdb.com/blog/introducing-surrealdb-3-0--the-future-of-ai-agent-memory)
+* [sighook 0.9.0: prepatched hook APIs](https://github.com/YinMo19/sighook/releases/tag/v0.9.0)
 
 ### Observations/Thoughts
 * [How Rust and Its Compiler Have Revolutionized Software Engineering and Reliability](https://kerkour.com/rust-software-engineering-reliability)
@@ -66,17 +64,14 @@ and just ask the editors to select the category.
 * [The Evolution of Async Rust: From Tokio to High-Level Applications](https://www.youtube.com/live/2aZaBZVJWm0?si=ienX-zcIBOtDxhj0)
 
 ### Rust Walkthroughs
-* [series] [Part 5: A Witless Fool, Building an LLM from Scratch in Rust](https://www.tag1.com/how-to/part5-a-witless-fool-building-an-llm-from-scratch/)
 * [Introduction to writing RISC-V contracts in Rust on Polkadot](https://dev.to/badery/introduction-to-writing-risc-v-contracts-in-rust-on-polkadot-29n7)
 * [Shipping My Rust CLI to Windows: Lessons Learned (feat. Windows 98 and APE Bonus)](https://ivaniscoding.github.io/posts/rustpackaging4/)
 * [Visualizing Persistent Vectors with Rust and WebAssembly](https://abishov.com/blog/pvec-rs-visualizing-structural-sharing/)
 * [Recreating PlanetScale's pg_strict in Rust: A Build Log](https://saybackend.com/blog/recreating-planetscale-pg-strict-in-rust/)
-
-### Research
+* [series] [Part 5: A Witless Fool, Building an LLM from Scratch in Rust](https://www.tag1.com/how-to/part5-a-witless-fool-building-an-llm-from-scratch/)
 
 ### Miscellaneous
 * [January 2026 Rust Jobs Report](https://filtra.io/rust/jobs-report/jan-26)
-
 * [Rust Developer Ecosystem Survey 2025: Popularity, Trends, and Future](https://blog.jetbrains.com/rust/2026/02/11/state-of-rust-2025/)
 
 ## Crate of the Week
@@ -366,7 +361,7 @@ Email the [Rust Community Team][community] for access.
 
 ## Jobs
 
-Please see the latest [Who's Hiring thread on r/rust](INSERT_LINK_HERE)
+Please see the latest [Who's Hiring thread on r/rust](https://www.reddit.com/r/rust/comments/1qkkqi9/official_rrust_whos_hiring_thread_for_jobseekers/)
 
 # Quote of the Week
 
