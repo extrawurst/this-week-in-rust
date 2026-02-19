@@ -74,6 +74,14 @@ What we are generally NOT looking for includes:
 * Anything behind a paywall (this includes Medium's paid article / members-only mechanism)
 * Anything that requires information to be shared/captured (like an email address) in order to access
 
+## LLM-written articles
+
+We don't take a position on whether or not you use LLMs. We do care whether articles submitted to TWiR were written by people.
+
+TWiR exists as part of a broader Rust community: we try to promote interactions within that community, enabling people to share and discover ideas, projects, original thoughts. If the author is an LLM, the truthfulness of its output may be compromised, and that's a problem. But more importantly, there is no community growth happening: there is no author to learn from community feedback, and the reader is not able to connect with a peer.
+
+If you submit an LLM-written article to TWiR, we request that the LLM authorship be disclosed in the article.
+
 ## Projects/Tooling Updates
 
 There are further guidelines for the Projects/Tooling Updates Section

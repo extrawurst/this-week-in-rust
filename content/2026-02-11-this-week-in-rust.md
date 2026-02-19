@@ -20,6 +20,7 @@ Want TWIR in your inbox? [Subscribe here](https://this-week-in-rust.us11.list-ma
 ## Updates from Rust Community
 
 ### Newsletters
+* [Rust Trends Issue #75: Rust Is Becoming the AI Runtime](https://rust-trends.com/newsletter/rust-is-becoming-the-ai-runtime/)
 * [GCC Front-End For Rust - January 2026 Monthly report](https://rust-gcc.github.io/2026/02/10/2026-01-monthly-report.html)
 
 ### Project/Tooling Updates
