@@ -72,6 +72,7 @@ and just ask the editors to select the category.
 ### Research
 
 ### Miscellaneous
+* [January 2026 Rust Jobs Report](https://filtra.io/rust/jobs-report/jan-26)
 
 * [Rust Developer Ecosystem Survey 2025: Popularity, Trends, and Future](https://blog.jetbrains.com/rust/2026/02/11/state-of-rust-2025/)
 
