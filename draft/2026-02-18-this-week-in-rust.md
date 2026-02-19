@@ -77,7 +77,9 @@ and just ask the editors to select the category.
 
 ## Crate of the Week
 
-<!-- COTW goes here -->
+This week's crate is [banish](https://github.com/LoganFlaherty/banish), a proc macro to build rule-driven state machines using a declarative DSL.
+
+Thanks to [Logan Flaherty](https://users.rust-lang.org/t/crate-of-the-week/2704/1547) for the self-suggestion!
 
 [Please submit your suggestions and votes for next week][submit_crate]!
 
@@ -159,7 +161,56 @@ If you are an event organizer hoping to expand the reach of your event, please s
 
 ## Updates from the Rust Project
 
-<!-- Rust updates go here -->
+564 pull requests were [merged in the last week][merged]
+
+[merged]: https://github.com/search?q=is%3Apr+org%3Arust-lang+is%3Amerged+merged%3A2026-02-10..2026-02-17
+
+#### Compiler
+* [handle race when coloring nodes concurrently as both green and red](https://github.com/rust-lang/rust/pull/151509)
+* [implement RFC 3678: Final trait methods](https://github.com/rust-lang/rust/pull/151783)
+* [replace `box_new` with lower-level intrinsics](https://github.com/rust-lang/rust/pull/148190)
+* [shallow resolve ty and const vars to their root vars](https://github.com/rust-lang/rust/pull/151380)
+* [show what lint was overruled](https://github.com/rust-lang/rust/pull/152452)
+
+#### Library
+* [implement feature `float_exact_integer_constants`](https://github.com/rust-lang/rust/pull/152512)
+* [implement `BinaryHeap::from_raw_vec`](https://github.com/rust-lang/rust/pull/152502)
+* [implement `carryless_mul`](https://github.com/rust-lang/rust/pull/152132)
+* [support ADT types in type info reflection](https://github.com/rust-lang/rust/pull/151142)
+* [optimize indexing slices and strs with inclusive ranges](https://github.com/rust-lang/rust/pull/145024)
+* [stabilize `assert_matches`](https://github.com/rust-lang/rust/pull/137487)
+
+#### Cargo
+* [`lints`: Don't run on-by-default lints when MSRV is too old](https://github.com/rust-lang/cargo/pull/16618)
+* [`lockfile-path`: Respect the config in fix, install](https://github.com/rust-lang/cargo/pull/16617)
+* [`script`: Load config relative to the script](https://github.com/rust-lang/cargo/pull/16620)
+* [`script`: Make the lockfile script-specific independent of build-dir](https://github.com/rust-lang/cargo/pull/16619)
+* [changed build script run `output` dir to `stdout` in new build-dir layout](https://github.com/rust-lang/cargo/pull/16644)
+* [suggest a `workspace.members` entry even from outside the workspace root](https://github.com/rust-lang/cargo/pull/16616)
+
+#### Rustdoc
+* [sort stable items first](https://github.com/rust-lang/rust/pull/149460)
+
+#### Clippy
+* [assume that any external function might return a type alias](https://github.com/rust-lang/rust-clippy/pull/16415)
+* [do not lint main function in `must_use_candidates`](https://github.com/rust-lang/rust-clippy/pull/16552)
+* [extend `iter_kv_map` to cover `flat_map` and `filter_map`](https://github.com/rust-lang/rust-clippy/pull/16519)
+* [fix `RustcCallbacks::config()` in `clippy-driver`](https://github.com/rust-lang/rust-clippy/pull/16562)
+
+#### Rust-Analyzer
+* [improve hover too long parameter list](https://github.com/rust-lang/rust-analyzer/pull/21591)
+* [fix `smol_str` compilation error](https://github.com/rust-lang/rust-analyzer/pull/21648)
+* [fix complete semicolon in array expression](https://github.com/rust-lang/rust-analyzer/pull/21402)
+* [fix incorrect Self path expand for `inline_call`](https://github.com/rust-lang/rust-analyzer/pull/21381)
+* [do not resolve proc macros in value ns (as functions), only in macro ns, outside their defining crate](https://github.com/rust-lang/rust-analyzer/pull/21633)
+* [don't assume `extern fn`s parameters are patterns](https://github.com/rust-lang/rust-analyzer/pull/21632)
+* [handle `ref mut` bindings in `contains_explicit_ref_binding`](https://github.com/rust-lang/rust-analyzer/pull/21647)
+* [use `ExprIsRead::Yes` for rhs of ordinary assignments](https://github.com/rust-lang/rust-analyzer/pull/21649)
+* [migrate `covert_tuple_return_type` to `struct` assist to syntax editor](https://github.com/rust-lang/rust-analyzer/pull/21619)
+* [migrate `generate_impl` assist to use AstNodeEdit](https://github.com/rust-lang/rust-analyzer/pull/21643)
+* [migrate `introduce_named_lifetime` assist to SyntaxEditor](https://github.com/rust-lang/rust-analyzer/pull/21507)
+* [migrate destructure tuple binding assist to syntaxEditor](https://github.com/rust-lang/rust-analyzer/pull/21618)
+* [remove mutable edit in place with `edit::AstNodeEdit` in migrated assist handlers](https://github.com/rust-lang/rust-analyzer/pull/21636)
 
 ### Rust Compiler Performance Triage
 
@@ -334,7 +385,11 @@ Please see the latest [Who's Hiring thread on r/rust](INSERT_LINK_HERE)
 
 # Quote of the Week
 
-<!-- QOTW goes here -->
+> Clearly there is such a thing as too much syntactic sugar (as one of my professors put it, "syntactic sugar causes semantic cancer"), but at the same time also clearly some syntactic sugar is worth having.
+
+– [Ralf Jung on rust-internals](https://internals.rust-lang.org/t/pre-pre-rfc-splatting-for-named-arguments-and-function-overloading/24012/17)
+
+Thanks to [robofinch](https://users.rust-lang.org/t/twir-quote-of-the-week/328/1753) for the suggestion!
 
 [Please submit quotes and vote for next week!](https://users.rust-lang.org/t/twir-quote-of-the-week/328)
 
