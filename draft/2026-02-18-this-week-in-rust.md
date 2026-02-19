@@ -58,6 +58,8 @@ and just ask the editors to select the category.
 * [Containerized shell sessions with Shell-Cell](https://mr-leshiy-blog.web.app/blog/shell-cell/)
 * [Introducing SurrealDB 3.0 - the future of AI agent memory](https://surrealdb.com/blog/introducing-surrealdb-3-0--the-future-of-ai-agent-memory)
 
+* [sighook 0.9.0: prepatched hook APIs for iOS signed text pages](https://github.com/YinMo19/sighook/releases/tag/v0.9.0)
+
 ### Observations/Thoughts
 * [How Rust and Its Compiler Have Revolutionized Software Engineering and Reliability](https://kerkour.com/rust-software-engineering-reliability)
 * [Async/await on the GPU](https://www.vectorware.com/blog/async-await-on-gpu/)
