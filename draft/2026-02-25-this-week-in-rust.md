@@ -52,6 +52,7 @@ and just ask the editors to select the category.
 ### Research
 
 ### Miscellaneous
+* [Hieratic Prompt Compression: From Prototype to Production](https://noos.blog/posts/hieratic-prompt-compression-release/)
 
 ## Crate of the Week
 
