@@ -49,6 +49,8 @@ and just ask the editors to select the category.
 
 ### Rust Walkthroughs
 
+* [video] [device-envoy: Making Embedded Fun with Rust, Embassy, and Composable Device Abstractions](https://www.youtube.com/watch?v=iUu6hvJLVOU) (Seattle Rust User Group)
+
 ### Research
 
 ### Miscellaneous
