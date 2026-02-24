@@ -45,6 +45,7 @@ and just ask the editors to select the category.
 
 ### Project/Tooling Updates
 * [Introducing Almonds — Your Personal Workspace, Reimagined](https://opeolluwa.github.io/almonds/blog/hello-almonds)
+* [Releasing bincode-next v3.0.0-rc.1](https://users.rust-lang.org/t/releasing-bincode-next-v3-0-0-rc-1/138466)
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
