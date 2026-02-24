@@ -141,7 +141,17 @@ If you are an event organizer hoping to expand the reach of your event, please s
 
 ### Rust Compiler Performance Triage
 
-<!-- Perf results go here -->
+Overall, a bit more noise than usual this week, but mostly a slight improvement
+with several low-level optimizations at MIR and LLVM IR building landing. Also
+less commits landing than usual, mostly due to GitHub CI issues during the week.
+
+Triage done by **@simulacrum**.
+Revision range: [3c9faa0d..eeb94be7](https://perf.rust-lang.org/?start=3c9faa0d037b9eecda4a440cc482ff7f960fb8a5&end=eeb94be79adc9df7a09ad0b2421f16e60e6d932c&absolute=false&stat=instructions%3Au)
+
+3 Regressions, 4 Improvements, 4 Mixed; 3 of them in rollups
+24 artifact comparisons made in total
+
+[Full report here](https://github.com/rust-lang/rustc-perf/blob/master/triage/2026/2026-02-23.md)
 
 ### [Approved RFCs](https://github.com/rust-lang/rfcs/commits/master)
 
