@@ -39,25 +39,41 @@ and just ask the editors to select the category.
 
 ### Official
 
+* [Rust participates in Google Summer of Code 2026](https://blog.rust-lang.org/2026/02/19/Rust-participates-in-GSoC-2026/)
+* [Rust debugging survey 2026](https://blog.rust-lang.org/2026/02/23/rust-debugging-survey-2026/)
+
 ### Foundation
+
+* [Guest Blog: FOSDEM 2026 — Rust Devroom in Review](https://rustfoundation.org/media/guest-blog-fosdem-2026-rust-devroom-in-review/)
 
 ### Newsletters
 
 ### Project/Tooling Updates
+
+* [Zed: Split Diffs are Here](https://zed.dev/blog/split-diffs)
+* [CHERIoT Rust: Status update #0](https://rust.cheriot.org/2026/02/15/status-update.html)
 * [SeaORM now supports Arrow & Parquet](https://www.sea-ql.org/blog/2026-02-22-sea-orm-arrow/)
 * [Releasing bincode-next v3.0.0-rc.1](https://users.rust-lang.org/t/releasing-bincode-next-v3-0-0-rc-1/138466)
 * [Introducing Almonds — Your Personal Workspace, Reimagined](https://opeolluwa.github.io/almonds/blog/hello-almonds)
 * [Hitbox 0.2.0: declarative cache orchestration for async Rust](https://www.reddit.com/r/rust/comments/1qp88he/hitbox_020_async_http_caching_framework_for_rust/)
 
 ### Observations/Thoughts
+
+* [What it means that Ubuntu is using Rust](https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/)
+* [Read Locks Are Not Your Friends](https://eventual-consistency.vercel.app/posts/write-locks-faster)
 * [Achieving Zero Bugs: Rust, Specs, and AI Coding](https://www.borg.org/?p=1472)
+* [video] [device-envoy: Making Embedded Fun with Rust—by Carl Kadie](https://www.youtube.com/watch?v=iUu6hvJLVOU)
 
 ### Rust Walkthroughs
+
+* [About memory pressure, lock contention, and Data-oriented Design](https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/)
 * [Breaking SHA-2: length extension attacks in practice with Rust](https://kerkour.com/sha256-length-extension-attacks)
 
 * [device-envoy: Making Embedded Fun with Rust, Embassy, and Composable Device Abstractions](https://medium.com/@carlmkadie/device-envoy-making-embedded-fun-31534917414b)
 
 ### Research
+
+* [Auditing Rust Crates Effectively](https://arxiv.org/abs/2602.06466)
 
 ### Miscellaneous
 
