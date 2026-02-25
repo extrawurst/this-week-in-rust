@@ -49,6 +49,7 @@ and just ask the editors to select the category.
 * [Introducing Almonds — Your Personal Workspace, Reimagined](https://opeolluwa.github.io/almonds/blog/hello-almonds)
 
 ### Observations/Thoughts
+* [Achieving Zero Bugs: Rust, Specs, and AI Coding](https://www.borg.org/?p=1472)
 
 ### Rust Walkthroughs
 * [Breaking SHA-2: length extension attacks in practice with Rust](https://kerkour.com/sha256-length-extension-attacks)
