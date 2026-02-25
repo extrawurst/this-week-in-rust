@@ -55,6 +55,8 @@ and just ask the editors to select the category.
 ### Rust Walkthroughs
 * [Breaking SHA-2: length extension attacks in practice with Rust](https://kerkour.com/sha256-length-extension-attacks)
 
+* [device-envoy: Making Embedded Fun with Rust, Embassy, and Composable Device Abstractions](https://medium.com/@carlmkadie/device-envoy-making-embedded-fun-31534917414b)
+
 ### Research
 
 ### Miscellaneous
