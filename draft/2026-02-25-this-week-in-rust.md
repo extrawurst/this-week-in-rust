@@ -48,6 +48,7 @@ and just ask the editors to select the category.
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
+* [Breaking SHA-2: length extension attacks in practice with Rust](https://kerkour.com/sha256-length-extension-attacks)
 
 ### Research
 
