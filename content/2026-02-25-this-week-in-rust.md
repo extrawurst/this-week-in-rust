@@ -404,4 +404,4 @@ This Week in Rust is edited by:
 
 *Email list hosting is sponsored by [The Rust Foundation](https://foundation.rust-lang.org/)*
 
-<small>[Discuss on r/rust](https://this-week-in-rust.org/blog/2026/02/25/this-week-in-rust-640/)</small>
+<small>[Discuss on r/rust](https://www.reddit.com/r/rust/comments/1rftaij/this_week_in_rust_640/)</small>
