@@ -79,7 +79,9 @@ and just ask the editors to select the category.
 
 ## Crate of the Week
 
-<!-- COTW goes here -->
+This week's crate is [docstr](https://github.com/nik-rev/docstr), a macro crate providing a macro to create multiline strings out of doc comments.
+
+Thanks to [Nik Revenco](https://users.rust-lang.org/t/crate-of-the-week/2704/1557) for the self-suggestion!
 
 [Please submit your suggestions and votes for next week][submit_crate]!
 
@@ -129,7 +131,69 @@ If you are an event organizer hoping to expand the reach of your event, please s
 
 ## Updates from the Rust Project
 
-<!-- Rust updates go here -->
+450 pull requests were [merged in the last week][merged]
+
+[merged]: https://github.com/search?q=is%3Apr+org%3Arust-lang+is%3Amerged+merged%3A2026-02-17..2026-02-24
+
+#### Compiler
+* [bring back `enum DepKind`](https://github.com/rust-lang/rust/pull/152747)
+* [simplify the canonical `enum` clone branches to a copy statement](https://github.com/rust-lang/rust/pull/148034)
+* [stabilize `if let` guards (`feature(if_let_guard)`)](https://github.com/rust-lang/rust/pull/141295)
+
+#### Library
+* [add `try_shrink_to` and `try_shrink_to_fit` to Vec](https://github.com/rust-lang/rust/pull/152366)
+* [fixed ByteStr not padding within its Display trait when no specific alignment is mentioned](https://github.com/rust-lang/rust/pull/152865)
+* [reflection `TypeId::trait_info_of`](https://github.com/rust-lang/rust/pull/152003)
+* [reflection `TypeKind::FnPtr`](https://github.com/rust-lang/rust/pull/152173)
+* [just pass `Layout` directly to `box_new_uninit`](https://github.com/rust-lang/rust/pull/152737)
+* [stabilize `cfg_select!`](https://github.com/rust-lang/rust/pull/149783)
+
+#### Cargo
+* [`cli`: Remove `--lockfile-path`](https://github.com/rust-lang/cargo/pull/16621)
+* [`job_queue`: Handle Clippy CLI arguments in `fix` message](https://github.com/rust-lang/cargo/pull/16652)
+* [fix parallel locking when `-Zfine-grain-locking` is enabled](https://github.com/rust-lang/cargo/pull/16659)
+
+#### Clippy
+* [add `unnecessary_trailing_comma` lint](https://github.com/rust-lang/rust-clippy/pull/16530)
+* [add new `disallowed_fields` lint](https://github.com/rust-lang/rust-clippy/pull/16218)
+* [`clone_on_ref_ptr`: don't add a `&` to the receiver if it's a reference](https://github.com/rust-lang/rust-clippy/pull/15742)
+* [`needless_maybe_sized`: don't lint in proc-macro-generated code](https://github.com/rust-lang/rust-clippy/pull/15629)
+* [`str_to_string`: false positive non-str types](https://github.com/rust-lang/rust-clippy/pull/16571)
+* [`useless_conversion`: also fire inside compiler desugarings](https://github.com/rust-lang/rust-clippy/pull/16594)
+* [add `allow-unwrap-types` configuration for `unwrap_used` and `expect_used`](https://github.com/rust-lang/rust-clippy/pull/16605)
+* [add brackets around unsafe or labeled block used in `else`](https://github.com/rust-lang/rust-clippy/pull/16603)
+* [allow `deprecated(since = "CURRENT_RUSTC_VERSION")`](https://github.com/rust-lang/rust-clippy/pull/16557)
+* [do not suggest removing reborrow of a captured upvar](https://github.com/rust-lang/rust-clippy/pull/16622)
+* [enhance `collapsible_match` to cover if-elses](https://github.com/rust-lang/rust-clippy/pull/16560)
+* [enhance `manual_is_variant_and` to cover `filter` chaining `is_some`](https://github.com/rust-lang/rust-clippy/pull/16521)
+* [fix `explicit_counter_loop` false negative when loop counter starts at non-zero](https://github.com/rust-lang/rust-clippy/pull/16620)
+* [fix `join_absolute_paths` to work correctly depending on the platform](https://github.com/rust-lang/rust-clippy/pull/16610)
+* [fix `redundant_iter_cloned` false positive with move closures and coroutines](https://github.com/rust-lang/rust-clippy/pull/16494)
+* [fix `unnecessary_min_or_max` for usize](https://github.com/rust-lang/rust-clippy/pull/16575)
+* [fix panic/assert message detection in edition 2015/2018](https://github.com/rust-lang/rust-clippy/pull/16473)
+* [handle `Result<T, !>` and `ControlFlow<!, T>` as `T` wrt `#[must_use]`](https://github.com/rust-lang/rust-clippy/pull/16353)
+* [make `unchecked_time_subtraction` to better handle `Duration` literals](https://github.com/rust-lang/rust-clippy/pull/16528)
+* [make `unnecessary_fold` commutative](https://github.com/rust-lang/rust-clippy/pull/16604)
+* [the path from a type to itself is `Self`](https://github.com/rust-lang/rust-clippy/pull/16362)
+
+#### Rust-Analyzer
+* [add partial selection for `generate_getter_or_setter`](https://github.com/rust-lang/rust-analyzer/pull/20353)
+* [offer block let fallback postfix complete](https://github.com/rust-lang/rust-analyzer/pull/21594)
+* [offer on `is_some_and` for `replace_is_method_with_if_let_method`](https://github.com/rust-lang/rust-analyzer/pull/21623)
+* [fix some TryEnum reference assists](https://github.com/rust-lang/rust-analyzer/pull/21389)
+* [add handling for cycles in `sizedness_constraint_for_ty()`](https://github.com/rust-lang/rust-analyzer/pull/21664)
+* [better import placement + merging](https://github.com/rust-lang/rust-analyzer/pull/21635)
+* [complete `.let` on block tail prefix expression](https://github.com/rust-lang/rust-analyzer/pull/21600)
+* [complete derive helpers on empty nameref](https://github.com/rust-lang/rust-analyzer/pull/21655)
+* [correctly parenthesize inverted condition in `convert_if_to_bool_…`](https://github.com/rust-lang/rust-analyzer/pull/21688)
+* [exclude macro refs in tests when excludeTests is enabled](https://github.com/rust-lang/rust-analyzer/pull/21675)
+* [fix another case where we forgot to put the type param for `PartialOrd` and `PartialEq` in builtin derives](https://github.com/rust-lang/rust-analyzer/pull/21692)
+* [fix predicates of builtin derive traits with two parameters defaulting to `Self`](https://github.com/rust-lang/rust-analyzer/pull/21652)
+* [generate method assist uses enclosing impl block instead of first found](https://github.com/rust-lang/rust-analyzer/pull/21684)
+* [no complete suggest param in complex pattern](https://github.com/rust-lang/rust-analyzer/pull/21650)
+* [offer `toggle_macro_delimiter` in nested macro](https://github.com/rust-lang/rust-analyzer/pull/21536)
+* [prevent qualifying parameter names in `add_missing_impl_members`](https://github.com/rust-lang/rust-analyzer/pull/21665)
+* [implement `Span::SpanSouce` for proc-macro-srv](https://github.com/rust-lang/rust-analyzer/pull/21657)
 
 ### Rust Compiler Performance Triage
 
@@ -299,7 +363,11 @@ Please see the latest [Who's Hiring thread on r/rust](INSERT_LINK_HERE)
 
 # Quote of the Week
 
-<!-- QOTW goes here -->
+> This is actually just Rust adding support for C++-style duck-typed templates, and the long and mostly-irrelevant information contained in the ICE message is part of the experience.
+
+– [robofinch on rust-users](https://users.rust-lang.org/t/cheat-code-for-bypassing-trait-bounds/138402/3)
+
+Thanks to [Kyllingene](https://users.rust-lang.org/t/twir-quote-of-the-week/328/1754) for the suggestion!
 
 [Please submit quotes and vote for next week!](https://users.rust-lang.org/t/twir-quote-of-the-week/328)
 
