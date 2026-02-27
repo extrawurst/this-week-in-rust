@@ -46,17 +46,15 @@ and just ask the editors to select the category.
 
 * [Guest Blog: FOSDEM 2026 — Rust Devroom in Review](https://rustfoundation.org/media/guest-blog-fosdem-2026-rust-devroom-in-review/)
 
-### Newsletters
-
 ### Project/Tooling Updates
 
 * [Zed: Split Diffs are Here](https://zed.dev/blog/split-diffs)
 * [CHERIoT Rust: Status update #0](https://rust.cheriot.org/2026/02/15/status-update.html)
 * [SeaORM now supports Arrow & Parquet](https://www.sea-ql.org/blog/2026-02-22-sea-orm-arrow/)
 * [Releasing bincode-next v3.0.0-rc.1](https://users.rust-lang.org/t/releasing-bincode-next-v3-0-0-rc-1/138466)
-* [Introducing Almonds — Your Personal Workspace, Reimagined](https://opeolluwa.github.io/almonds/blog/hello-almonds)
-* [SafePilot v0.1: self-hosted AI personal assistant](https://github.com/3DCF-Labs/safepilot/releases/tag/v0.1)
-* [Hitbox 0.2.0: declarative cache orchestration for async Rust](https://www.reddit.com/r/rust/comments/1qp88he/hitbox_020_async_http_caching_framework_for_rust/)
+* [Introducing Almonds](https://opeolluwa.github.io/almonds/blog/hello-almonds)
+* [SafePilot v0.1: self-hosted AI assistant](https://github.com/3DCF-Labs/safepilot/releases/tag/v0.1)
+* [Hitbox 0.2.0: declarative cache orchestration](https://www.reddit.com/r/rust/comments/1qp88he/hitbox_020_async_http_caching_framework_for_rust/)
 
 ### Observations/Thoughts
 
@@ -69,7 +67,6 @@ and just ask the editors to select the category.
 
 * [About memory pressure, lock contention, and Data-oriented Design](https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/)
 * [Breaking SHA-2: length extension attacks in practice with Rust](https://kerkour.com/sha256-length-extension-attacks)
-
 * [device-envoy: Making Embedded Fun with Rust, Embassy, and Composable Device Abstractions](https://medium.com/@carlmkadie/device-envoy-making-embedded-fun-31534917414b)
 
 ### Research
@@ -77,6 +74,7 @@ and just ask the editors to select the category.
 * [Auditing Rust Crates Effectively](https://arxiv.org/abs/2602.06466)
 
 ### Miscellaneous
+
 * [Hieratic Prompt Compression: From Prototype to Production](https://noos.blog/posts/hieratic-prompt-compression-release/)
 
 ## Crate of the Week
@@ -116,7 +114,7 @@ Some of these tasks may also have mentors available, visit the task page for mor
 
 <!-- CFPs go here, use this format: * [project name - title of issue](URL to issue) -->
 <!-- * [ - ]() -->
-<!-- or if none - *No Calls for participation were submitted this week.* -->
+*No Calls for participation were submitted this week.*
 
 If you are a Rust project owner and are looking for contributors, please submit tasks [here][guidelines] or through a [PR to TWiR](https://github.com/rust-lang/this-week-in-rust) or by reaching out on [Bluesky](https://bsky.app/profile/thisweekinrust.bsky.social) or [Mastodon](https://mastodon.social/@thisweekinrust)!
 
@@ -378,7 +376,7 @@ Email the [Rust Community Team][community] for access.
 
 ## Jobs
 
-Please see the latest [Who's Hiring thread on r/rust](INSERT_LINK_HERE)
+Please see the latest [Who's Hiring thread on r/rust](https://www.reddit.com/r/rust/comments/1qkkqi9/official_rrust_whos_hiring_thread_for_jobseekers/)
 
 # Quote of the Week
 
