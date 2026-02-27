@@ -77,6 +77,7 @@ and just ask the editors to select the category.
 * [Auditing Rust Crates Effectively](https://arxiv.org/abs/2602.06466)
 
 ### Miscellaneous
+* [Hieratic Prompt Compression: From Prototype to Production](https://noos.blog/posts/hieratic-prompt-compression-release/)
 
 ## Crate of the Week
 
