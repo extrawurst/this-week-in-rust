@@ -47,6 +47,8 @@ and just ask the editors to select the category.
 
 ### Observations/Thoughts
 
+* ["Respectful" YAML patching in Rust](https://verrchu.github.io/blog/2-respectful-yaml-patching-in-rust/)
+
 ### Rust Walkthroughs
 
 ### Research
