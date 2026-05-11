@@ -45,6 +45,8 @@ and just ask the editors to select the category.
 
 ### Project/Tooling Updates
 
+* [Record Ownership: Which Side Is Right?](https://aimdb.dev/blog/record-ownership)
+
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
