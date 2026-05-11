@@ -45,6 +45,8 @@ and just ask the editors to select the category.
 
 ### Project/Tooling Updates
 
+- [Ratty: A terminal emulator with inline 3D graphics](https://blog.orhun.dev/introducing-ratty/)
+
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
