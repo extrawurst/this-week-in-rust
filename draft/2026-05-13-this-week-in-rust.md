@@ -45,6 +45,8 @@ and just ask the editors to select the category.
 
 ### Project/Tooling Updates
 
+* [Burn 0.21.0 Release: Up to 8× Lower Framework Overhead, Differentiable Collectives and Improved Kernels](https://burn.dev/blog/release-0.21.0/)
+
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
