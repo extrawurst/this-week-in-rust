@@ -48,6 +48,7 @@ and just ask the editors to select the category.
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
+* [Learn Rust Generics and Traits By Building a Mini Blackjack Game](https://blog.sheerluck.dev/posts/learn-generics-traits-in-rust-by-building-blackjack-card-game-engine/)
 
 ### Research
 
