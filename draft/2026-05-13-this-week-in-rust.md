@@ -47,7 +47,11 @@ and just ask the editors to select the category.
 
 ### Observations/Thoughts
 
+* [Getting Started with Geospatial Rust](https://eors-workspace-a6ef35.gitlab.io/posts/001-introduction-geospatial-rust/) — What satellites measure, spectral bands, indices, cloud detection.
+
 ### Rust Walkthroughs
+
+* [End-to-End Geospatial Processing with EORST](https://eors-workspace-a6ef35.gitlab.io/posts/002-end-to-end-workflow/) — Build a satellite pipeline in Rust: STAC query to GeoTIFF.
 
 ### Research
 
