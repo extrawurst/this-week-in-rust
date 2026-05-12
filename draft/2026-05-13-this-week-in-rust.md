@@ -45,7 +45,7 @@ and just ask the editors to select the category.
 
 ### Project/Tooling Updates
 
-* [https://blog.weiznich.de/blog/diesel-async-0-9/](Announcing diesel-async 0.9)
+* [Announcing diesel-async 0.9](https://blog.weiznich.de/blog/diesel-async-0-9/)
 
 ### Observations/Thoughts
 
