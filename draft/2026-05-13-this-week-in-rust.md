@@ -44,7 +44,7 @@ and just ask the editors to select the category.
 ### Newsletters
 
 ### Project/Tooling Updates
-* [Entroly 0.18.0: Rust-powered AI context engine with PRISM reinforcement learning and EGSC caching](https://github.com/juyterman1000/entroly)
+ * [Entroly 0.18.0: Rust-powered AI context engine with PRISM reinforcement learning, SimHash dedup, and EGSC caching](https://github.com/juyterman1000/entroly/discussions/43)
 
 ### Observations/Thoughts
 
