@@ -58,6 +58,7 @@ and just ask the editors to select the category.
 
 ### Rust Walkthroughs
 
+* [Where the sun keeps shinin': the provider pattern](https://bitfieldconsulting.com/posts/sun-keeps-shinin)
 * [End-to-End Geospatial Processing with EORST](https://eors-workspace-a6ef35.gitlab.io/posts/002-end-to-end-workflow/) — Build a satellite pipeline in Rust: STAC query to GeoTIFF.
 
 ### Research
