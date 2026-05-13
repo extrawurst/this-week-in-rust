@@ -57,6 +57,7 @@ and just ask the editors to select the category.
 * [The limits of Rust, or why you should probably not follow Amazon, Cloudflare and Discord](https://kerkour.com/the-limits-of-rust)
 
 ### Rust Walkthroughs
+* [Learn Rust Generics and Traits By Building a Mini Blackjack Game](https://blog.sheerluck.dev/posts/learn-generics-traits-in-rust-by-building-blackjack-card-game-engine/)
 
 * [Where the sun keeps shinin': the provider pattern](https://bitfieldconsulting.com/posts/sun-keeps-shinin)
 * [End-to-End Geospatial Processing with EORST](https://eors-workspace-a6ef35.gitlab.io/posts/002-end-to-end-workflow/) — Build a satellite pipeline in Rust: STAC query to GeoTIFF.
