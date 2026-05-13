@@ -48,6 +48,8 @@ and just ask the editors to select the category.
  * [Entroly 0.18.0: Rust-powered AI context engine with PRISM reinforcement learning, SimHash dedup, and EGSC caching](https://github.com/juyterman1000/entroly/discussions/43)
 * [uFerris: A Versatile Learning Board for Rust Embedded](https://www.theembeddedrustacean.com/uferris)
 
+* [Record Ownership: Which Side Is Right?](https://aimdb.dev/blog/record-ownership)
+
 ### Observations/Thoughts
 
 * [Getting Started with Geospatial Rust](https://eors-workspace-a6ef35.gitlab.io/posts/001-introduction-geospatial-rust/) — What satellites measure, spectral bands, indices, cloud detection.
