@@ -52,6 +52,8 @@ and just ask the editors to select the category.
 
 * [Burn 0.21.0 Release: Up to 8× Lower Framework Overhead, Differentiable Collectives and Improved Kernels](https://burn.dev/blog/release-0.21.0/)
 
+- [Ratty: A terminal emulator with inline 3D graphics](https://blog.orhun.dev/introducing-ratty/)
+
 ### Observations/Thoughts
 
 * [Getting Started with Geospatial Rust](https://eors-workspace-a6ef35.gitlab.io/posts/001-introduction-geospatial-rust/) — What satellites measure, spectral bands, indices, cloud detection.
