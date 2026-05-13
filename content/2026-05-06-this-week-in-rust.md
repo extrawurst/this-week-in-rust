@@ -343,7 +343,7 @@ Rusty Events between 2026-05-06 - 2026-06-03 🦀
     * [**Rust Girona Hack & Learn 05 2026**](https://luma.com/ooub1kt0)
 * 2026-05-14 | Switzerland, CH | [PostTenebrasLab](https://www.posttenebraslab.ch/wiki/events/start)
     * [**Rust Meetup Geneva**](https://www.posttenebraslab.ch/wiki/events/monthly_meeting/rust_meetup)
-* 2026-05-18 - 2026-05-23 | Amsterdam, NL | [RustWeek 2026](https://2026.rustweek.org/)
+* 2026-05-18 - 2026-05-23 | Utrecht, NL | [RustWeek 2026](https://2026.rustweek.org/)
     * [**RustWeek 2026**](https://2026.rustweek.org/)
 * 2026-05-18 | Milano, MI, IT | [Rust Language Milan](https://www.meetup.com/rust-language-milano)
     * [**RustWeek 2026**](https://www.meetup.com/rust-language-milan/events/314329200/)
