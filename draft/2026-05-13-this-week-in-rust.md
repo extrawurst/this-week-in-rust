@@ -54,6 +54,8 @@ and just ask the editors to select the category.
 
 - [Ratty: A terminal emulator with inline 3D graphics](https://blog.orhun.dev/introducing-ratty/)
 
+* [Announcing diesel-async 0.9](https://blog.weiznich.de/blog/diesel-async-0-9/)
+
 ### Observations/Thoughts
 
 * [Getting Started with Geospatial Rust](https://eors-workspace-a6ef35.gitlab.io/posts/001-introduction-geospatial-rust/) — What satellites measure, spectral bands, indices, cloud detection.
