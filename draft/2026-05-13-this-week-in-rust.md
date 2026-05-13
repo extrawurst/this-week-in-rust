@@ -50,10 +50,13 @@ and just ask the editors to select the category.
 
 ### Observations/Thoughts
 
+* [Getting Started with Geospatial Rust](https://eors-workspace-a6ef35.gitlab.io/posts/001-introduction-geospatial-rust/) — What satellites measure, spectral bands, indices, cloud detection.
 * [Lessons Learned Building High-Performance Rust Profiler](https://pawelurbanek.com/rust-performance-profiling)
 * [The limits of Rust, or why you should probably not follow Amazon, Cloudflare and Discord](https://kerkour.com/the-limits-of-rust)
 
 ### Rust Walkthroughs
+
+* [End-to-End Geospatial Processing with EORST](https://eors-workspace-a6ef35.gitlab.io/posts/002-end-to-end-workflow/) — Build a satellite pipeline in Rust: STAC query to GeoTIFF.
 
 ### Research
 
