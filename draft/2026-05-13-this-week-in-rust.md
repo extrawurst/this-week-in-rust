@@ -44,7 +44,7 @@ and just ask the editors to select the category.
 ### Newsletters
 
 ### Project/Tooling Updates
-* [numax v0.1.0-alpha.1](https://github.com/GianIac/numax/releases/tag/v0.1.0-alpha.1) - first public alpha of a portable Rust runtime for distributed apps: WebAssembly sandbox (Wasmtime), embedded local key/value store (sled), and CRDT-based state sync between peers over TLS 1.3 + mTLS.
+* [Numax - A portable Rust runtime for distributed apps](https://github.com/GianIac/numax/releases/tag/v0.1.0-alpha.1)
 
 ### Observations/Thoughts
 
