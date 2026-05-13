@@ -42,13 +42,34 @@ and just ask the editors to select the category.
 ### Foundation
 
 ### Newsletters
+* [The Embedded Rustacean Issue #71](https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-71)
 
 ### Project/Tooling Updates
 * [Numax - A portable Rust runtime for distributed apps](https://github.com/GianIac/numax/releases/tag/v0.1.0-alpha.1)
 
+* [Entroly 0.18.0: Rust-powered AI context engine with PRISM reinforcement learning, SimHash dedup, and EGSC caching](https://github.com/juyterman1000/entroly/discussions/43)
+
+* [uFerris: A Versatile Learning Board for Rust Embedded](https://www.theembeddedrustacean.com/uferris)
+
+* [Record Ownership: Which Side Is Right?](https://aimdb.dev/blog/record-ownership)
+
+* [Burn 0.21.0 Release: Up to 8× Lower Framework Overhead, Differentiable Collectives and Improved Kernels](https://burn.dev/blog/release-0.21.0/)
+
+- [Ratty: A terminal emulator with inline 3D graphics](https://blog.orhun.dev/introducing-ratty/)
+
+* [Announcing diesel-async 0.9](https://blog.weiznich.de/blog/diesel-async-0-9/)
+
 ### Observations/Thoughts
 
+* [Getting Started with Geospatial Rust](https://eors-workspace-a6ef35.gitlab.io/posts/001-introduction-geospatial-rust/) — What satellites measure, spectral bands, indices, cloud detection.
+* [Lessons Learned Building High-Performance Rust Profiler](https://pawelurbanek.com/rust-performance-profiling)
+* [The limits of Rust, or why you should probably not follow Amazon, Cloudflare and Discord](https://kerkour.com/the-limits-of-rust)
+
 ### Rust Walkthroughs
+* [Learn Rust Generics and Traits By Building a Mini Blackjack Game](https://blog.sheerluck.dev/posts/learn-generics-traits-in-rust-by-building-blackjack-card-game-engine/)
+
+* [Where the sun keeps shinin': the provider pattern](https://bitfieldconsulting.com/posts/sun-keeps-shinin)
+* [End-to-End Geospatial Processing with EORST](https://eors-workspace-a6ef35.gitlab.io/posts/002-end-to-end-workflow/) — Build a satellite pipeline in Rust: STAC query to GeoTIFF.
 
 ### Research
 
