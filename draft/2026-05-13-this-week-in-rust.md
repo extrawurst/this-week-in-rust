@@ -50,6 +50,8 @@ and just ask the editors to select the category.
 
 * [Record Ownership: Which Side Is Right?](https://aimdb.dev/blog/record-ownership)
 
+* [Burn 0.21.0 Release: Up to 8× Lower Framework Overhead, Differentiable Collectives and Improved Kernels](https://burn.dev/blog/release-0.21.0/)
+
 ### Observations/Thoughts
 
 * [Getting Started with Geospatial Rust](https://eors-workspace-a6ef35.gitlab.io/posts/001-introduction-geospatial-rust/) — What satellites measure, spectral bands, indices, cloud detection.
