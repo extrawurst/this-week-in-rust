@@ -45,7 +45,10 @@ and just ask the editors to select the category.
 * [The Embedded Rustacean Issue #71](https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-71)
 
 ### Project/Tooling Updates
- * [Entroly 0.18.0: Rust-powered AI context engine with PRISM reinforcement learning, SimHash dedup, and EGSC caching](https://github.com/juyterman1000/entroly/discussions/43)
+* [Numax - A portable Rust runtime for distributed apps](https://github.com/GianIac/numax/releases/tag/v0.1.0-alpha.1)
+
+* [Entroly 0.18.0: Rust-powered AI context engine with PRISM reinforcement learning, SimHash dedup, and EGSC caching](https://github.com/juyterman1000/entroly/discussions/43)
+
 * [uFerris: A Versatile Learning Board for Rust Embedded](https://www.theembeddedrustacean.com/uferris)
 
 * [Record Ownership: Which Side Is Right?](https://aimdb.dev/blog/record-ownership)
