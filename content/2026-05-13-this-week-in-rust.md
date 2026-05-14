@@ -51,7 +51,7 @@ and just ask the editors to select the category.
 * [iroh 1.0.0-rc.0 - The first release candidate](https://www.iroh.computer/blog/iroh-1-0-0-rc-0)
 * [Burn 0.21.0 Release: Up to 8× Lower Framework Overhead, Differentiable Collectives and Improved Kernels](https://burn.dev/blog/release-0.21.0/)
 * [Ratty: A terminal emulator with inline 3D graphics](https://blog.orhun.dev/introducing-ratty/)
-* [Announcing the Rust runtime for Appwrite Functions](https://this-week-in-rust.org/blog/2026/05/06/this-week-in-rust-650/)
+* [Announcing the Rust runtime for Appwrite Functions](https://appwrite.io/blog/post/announcing-rust-runtime)
 * [Announcing diesel-async 0.9](https://blog.weiznich.de/blog/diesel-async-0-9/)
 * [Fresh 0.3.4: Ansi-native 'terminal' theme matches the system's theme; UI for Live Grep + custom grep providers; persistent 'dock' split; Verilog/VHDL support; and much more](https://github.com/sinelaw/fresh/releases/tag/v0.3.4)
 
