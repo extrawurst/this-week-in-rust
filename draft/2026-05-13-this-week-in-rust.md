@@ -56,6 +56,8 @@ and just ask the editors to select the category.
 
 * [Announcing diesel-async 0.9](https://blog.weiznich.de/blog/diesel-async-0-9/)
 
+* [Fresh 0.3.4: Ansi-native 'terminal' theme matches the system's theme; UI for Live Grep + custom grep providers; persistent 'dock' split; Verilog/VHDL support; and much more](https://github.com/sinelaw/fresh/releases/tag/v0.3.4)
+
 ### Observations/Thoughts
 
 * [Getting Started with Geospatial Rust](https://eors-workspace-a6ef35.gitlab.io/posts/001-introduction-geospatial-rust/) — What satellites measure, spectral bands, indices, cloud detection.
