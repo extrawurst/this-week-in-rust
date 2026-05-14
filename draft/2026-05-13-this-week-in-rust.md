@@ -135,7 +135,28 @@ If you are an event organizer hoping to expand the reach of your event, please s
 
 ### Rust Compiler Performance Triage
 
-<!-- Perf results go here -->
+This week saw a couple of PRs affecting the new trait solver, which is steadily moving forward,
+in particular [#156139](https://github.com/rust-lang/rust/pull/156139) was a massive perf. win.
+[#156185](https://github.com/rust-lang/rust/pull/156185) optimized visibility computation, resulting
+in up to a 8% win on the `typenum` crate.
+
+Triage done by **@Kobzol**.
+Revision range: [1d72d7e8..aa31d6d8](https://perf.rust-lang.org/?start=1d72d7e8136faaebad3a85eeed432e6ea1b2ffab&end=aa31d6d8020dcb7c6e6635648d1ca2bc18caf059&absolute=false&stat=instructions%3Au)
+
+**Summary**:
+
+| (instructions:u)                   | mean   | range           | count |
+|:----------------------------------:|:------:|:---------------:|:-----:|
+| Regressions ❌ <br /> (primary)    | 0.3%   | [0.1%, 0.4%]    | 62    |
+| Regressions ❌ <br /> (secondary)  | 0.5%   | [0.1%, 1.5%]    | 77    |
+| Improvements ✅ <br /> (primary)   | -1.7%  | [-8.8%, -0.2%]  | 18    |
+| Improvements ✅ <br /> (secondary) | -13.6% | [-85.6%, -0.0%] | 34    |
+| All ❌✅ (primary)                 | -0.2%  | [-8.8%, 0.4%]   | 80    |
+
+2 Regressions, 2 Improvements, 5 Mixed; 4 of them in rollups
+31 artifact comparisons made in total
+
+[Full report here](https://github.com/rust-lang/rustc-perf/blob/d4003fd3999eabaef2bca2c218d10f7547425a96/triage/2026/2026-05-12.md).
 
 ### [Approved RFCs](https://github.com/rust-lang/rfcs/commits/master)
 
