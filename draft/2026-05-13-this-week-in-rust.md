@@ -66,6 +66,8 @@ and just ask the editors to select the category.
 * [Getting Started with Geospatial Rust](https://eors-workspace-a6ef35.gitlab.io/posts/001-introduction-geospatial-rust/) — What satellites measure, spectral bands, indices, cloud detection.
 * [Lessons Learned Building High-Performance Rust Profiler](https://pawelurbanek.com/rust-performance-profiling)
 * [The limits of Rust, or why you should probably not follow Amazon, Cloudflare and Discord](https://kerkour.com/the-limits-of-rust)
+* ["Respectful" YAML patching in Rust](https://verrchu.github.io/blog/2-respectful-yaml-patching-in-rust/)
+
 
 ### Rust Walkthroughs
 * [Learn Rust Generics and Traits By Building a Mini Blackjack Game](https://blog.sheerluck.dev/posts/learn-generics-traits-in-rust-by-building-blackjack-card-game-engine/)
