@@ -40,6 +40,7 @@ and just ask the editors to select the category.
 ### Official
 
 ### Foundation
+* [Rust Foundation and Package Registry Leaders Unite to Address Open Source Sustainability Crisis](https://rustfoundation.org/media/rust-foundation-and-package-registry-leaders-unite-to-address-open-source-sustainability-crisis/)
 
 ### Newsletters
 * [The Embedded Rustacean Issue #71](https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-71)
@@ -52,28 +53,35 @@ and just ask the editors to select the category.
 * [uFerris: A Versatile Learning Board for Rust Embedded](https://www.theembeddedrustacean.com/uferris)
 
 * [Record Ownership: Which Side Is Right?](https://aimdb.dev/blog/record-ownership)
+* [iroh 1.0.0-rc.0 - The first release candidate](https://www.iroh.computer/blog/iroh-1-0-0-rc-0)
 
 * [Burn 0.21.0 Release: Up to 8× Lower Framework Overhead, Differentiable Collectives and Improved Kernels](https://burn.dev/blog/release-0.21.0/)
-
-- [Ratty: A terminal emulator with inline 3D graphics](https://blog.orhun.dev/introducing-ratty/)
+* [Ratty: A terminal emulator with inline 3D graphics](https://blog.orhun.dev/introducing-ratty/)
+* [Announcing the Rust runtime for Appwrite Functions](https://this-week-in-rust.org/blog/2026/05/06/this-week-in-rust-650/)
 
 * [Announcing diesel-async 0.9](https://blog.weiznich.de/blog/diesel-async-0-9/)
 
 * [Fresh 0.3.4: Ansi-native 'terminal' theme matches the system's theme; UI for Live Grep + custom grep providers; persistent 'dock' split; Verilog/VHDL support; and much more](https://github.com/sinelaw/fresh/releases/tag/v0.3.4)
 
 ### Observations/Thoughts
-
+* [Killing a `Cow` made my JSON formatter 42% faster](https://jacobasper.com/blog/killing-a-cow-made-my-json-formatter-42-percent-faster/)
 * [Getting Started with Geospatial Rust](https://eors-workspace-a6ef35.gitlab.io/posts/001-introduction-geospatial-rust/) — What satellites measure, spectral bands, indices, cloud detection.
 * [Lessons Learned Building High-Performance Rust Profiler](https://pawelurbanek.com/rust-performance-profiling)
 * [The limits of Rust, or why you should probably not follow Amazon, Cloudflare and Discord](https://kerkour.com/the-limits-of-rust)
+<<<<<<< community-links/#651
+* [The hidden cost of mpsc channels](https://blog.howardjohn.info/posts/mpsc-cost/)
+=======
 * ["Respectful" YAML patching in Rust](https://verrchu.github.io/blog/2-respectful-yaml-patching-in-rust/)
 
+>>>>>>> main
 
 ### Rust Walkthroughs
 * [Learn Rust Generics and Traits By Building a Mini Blackjack Game](https://blog.sheerluck.dev/posts/learn-generics-traits-in-rust-by-building-blackjack-card-game-engine/)
-
+* [Build a Full-Featured Text Editor From Scratch | 0xKiire](https://0xkiire.com/build-text-editor-from-scratch/)
 * [Where the sun keeps shinin': the provider pattern](https://bitfieldconsulting.com/posts/sun-keeps-shinin)
 * [End-to-End Geospatial Processing with EORST](https://eors-workspace-a6ef35.gitlab.io/posts/002-end-to-end-workflow/) — Build a satellite pipeline in Rust: STAC query to GeoTIFF.
+* [All the ways to mock your Rust code](https://blog.appliedcomputing.io/p/all-the-ways-to-mock-your-rust-code)
+* [Rust in Android Development: Complete Guide](https://chayanmistry.medium.com/rust-in-android-development-complete-guide-5f3313f40e50)
 
 ### Research
 
