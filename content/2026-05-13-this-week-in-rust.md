@@ -395,8 +395,7 @@ Please see the latest [Who's Hiring thread on r/rust](https://www.reddit.com/r/r
 > 
 > Without stronger compile-time guarantees, this stays a cat-and-mouse game. The proposal is to remove the largest bug class structurally rather than fix instances of it indefinitely.
 
-– [Jarred Sumner on the bun github](https://github.com/oven-sh/bun/blob/claude/phase-a-port/docs/rust-rewrite-plan.md#why)
-
+– [Jarred Sumner on the bun github](https://github.com/oven-sh/bun/blob/eeb4d9fdf6e9a7bdd45388d7f3a03dcf570839ad/docs/rust-rewrite-plan.md#why)
 Thanks to [Brian Kung](https://users.rust-lang.org/t/twir-quote-of-the-week/328/1765) for the suggestion!
 
 [Please submit quotes and vote for next week!](https://users.rust-lang.org/t/twir-quote-of-the-week/328)
